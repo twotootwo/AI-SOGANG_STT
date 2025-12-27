@@ -36,4 +36,4 @@ streamlit run app.py
 - `db.py`: Supabase 데이터베이스와의 연동을 담당합니다. 음성 파일을 업로드하고, 메타데이터를 저장합니다.
 - `model.py`: Whisper 모델을 로드하고, 음성 파일을 텍스트로 변환하는 기능을 제공합니다. model_action 함수를 통해 트랜스크립션을 수행합니다.
 - `styles.py`: Streamlit 앱의 CSS 스타일을 정의합니다. UI의 외관을 꾸미기 위한 스타일 시트입니다.
->>>>>>> origin/master
+

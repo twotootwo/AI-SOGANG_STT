@@ -1,0 +1,2 @@
+# AI-SOGANG_STT
+AI@SOGANG project
